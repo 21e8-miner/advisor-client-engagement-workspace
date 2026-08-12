@@ -1,8 +1,14 @@
-# vinext-starter
+# Advisor Client Engagement Workspace
 
-A clean full-stack starter running on
-[vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and
-Drizzle support.
+Book of households, service calendar, household workspace, and tax planner.
+
+**[Open the live app](https://advisor-client-engagement-workspace.sussman-adam.workers.dev)**
+
+Share this URL: `https://advisor-client-engagement-workspace.sussman-adam.workers.dev`
+
+---
+
+A full-stack [vinext](https://github.com/cloudflare/vinext) app on Cloudflare Workers, with D1 and Drizzle.
 
 ## Prerequisites
 
